@@ -221,6 +221,7 @@ idf.py -p COM3 monitor
 - 激活只需要进行一次
 - 激活后设备会记住配置，下次开机自动连接
 - 详细激活方案请参考：[ACTIVATION.md](ACTIVATION.md)
+- 激活流程图参考：[ACTIVATION_FLOW.md](ACTIVATION_FLOW.md)
 
 ---
 
