@@ -10,6 +10,21 @@
 - ✅ **低成本** - 硬件成本更低，适合批量制作
 - ✅ **引脚释放** - LCD占用的引脚可用于其他扩展
 
+## 📁 项目结构
+
+```
+xiaodou/
+├── README.md              # 项目文档（完整说明）
+├── QUICKSTART.md          # 快速开始指南（新手友好）
+├── config.h               # 硬件引脚配置文件
+├── xiaodou_board.cc       # 板卡驱动实现（无LCD版本）
+├── config.json            # 编译配置文件
+├── deploy.sh              # Linux/macOS部署脚本
+├── deploy.bat             # Windows部署脚本
+├── LICENSE                # MIT开源协议
+└── .gitignore             # Git忽略文件
+```
+
 ## 硬件配置
 
 | 模块 | 型号 | 说明 |
